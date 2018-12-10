@@ -1,0 +1,14 @@
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\DwyerCapstone.exe.config
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\DwyerCapstone.exe
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\DwyerCapstone.pdb
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.csprojAssemblyReference.cache
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.Form1.resources
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.Properties.Resources.resources
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.csproj.GenerateResource.cache
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.csproj.CoreCompileInputs.cache
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.exe
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\obj\Debug\DwyerCapstone.pdb
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\CourseListing.mdf
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\CourseListing_log.ldf
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\Database1.mdf
+C:\Users\TD\source\repos\DwyerCapstone\DwyerCapstone\bin\Debug\Database1_log.ldf
